@@ -1,6 +1,6 @@
-package org.codeplay.examples;
+package org.codeplay.factory;
 
-import org.codeplay.annotations.Factory;
+import org.codeplay.factory.annotation.Factory;
 
 /**
  * @author coldilock
